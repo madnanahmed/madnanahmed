@@ -24,15 +24,16 @@ Other than web development, I also have expertise in the following fields.
 • Database Administration
 
 With this much experience, I can handle almost all frameworks and flavors of PHP.
-My objective is to delight my customers by providing them with end products exceeding their expectations by using commercial off-the-shelf tools and cutting-edge technologies.
+My objective is to delight my customers by providing them with end products that exceed their expectations by using commercial off-the-shelf tools and cutting-edge technologies.
 I love to work for clients for a long time to provide them likewise services that they are always obliged to.
 
-I worked with my clients very closely, understand their requirements, and provide the best services. Looking to do more here.
-upwork profile: https://www.upwork.com/freelancers/~012255f1b186aa3e70
+I worked closely with my clients, understood their requirements, and provided the best services. I'm looking forward to doing more here.
+Upwork profile: https://www.upwork.com/freelancers/~012255f1b186aa3e70
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madnanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="madnanahmed" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Laravel projects**
 
