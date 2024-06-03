@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Adnan</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"><img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" data-animated-image="" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%;"></a></p>
-I am an experienced web developer with having 11 years of experience. I have developed a wide range of websites using
+I am an experienced web developer with 11 years of experience. I have developed a wide range of websites using
 • jQuery
 • JavaScript
 • Laravel
@@ -17,7 +17,7 @@ I am an experienced web developer with having 11 years of experience. I have dev
 • vue.js,
 • Twilio, Plivo, Nexmo
 
-Other than web development, I also have expertise in the following fields.
+In addition to web development, I have expertise in the following fields:
 
 • GIT / Bitbucket / GitHub
 • Linux
@@ -25,7 +25,7 @@ Other than web development, I also have expertise in the following fields.
 
 With this much experience, I can handle almost all frameworks and flavors of PHP.
 My objective is to delight my customers by providing them with end products that exceed their expectations by using commercial off-the-shelf tools and cutting-edge technologies.
-I love to work for clients for a long time to provide them likewise services that they are always obliged to.
+I love working for clients for a long time to provide them with services they are always obliged to.
 
 I worked closely with my clients, understood their requirements, and provided the best services. I'm looking forward to doing more here.
 Upwork profile: https://www.upwork.com/freelancers/~012255f1b186aa3e70
